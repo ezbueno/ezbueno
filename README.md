@@ -1,17 +1,10 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1s6UaO8sWmwL1tJ36VoYZ0cOnthMqXh1A/view?usp=sharing">
 
-<!--
-**ezbueno/ezbueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<img align="right" width="400" height="400" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Feumaismais.com.br%2F2017%2F01%2F31%2Fliberando-o-acesso-ao-wildfly-para-todos-os-ips%2F&psig=AOvVaw26ra5A_4BOWkAqfVr3uFOv&ust=1595346985627000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD7-fKY3OoCFQAAAAAdAAAAABAO">
-
-# Welcome!
+## Welcome!
 
 ## I'm Ezandro Bueno!
 - 🔭 I’m currently working on IT Analyst
-- 🌱 I’m currently learning Java | HTML | CSS | JavaScript
+- 🌱 I’m currently learning Java | HTML | CSS | JavaScript | React
 
 
 ## About me 
