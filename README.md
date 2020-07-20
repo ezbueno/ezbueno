@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1s6UaO8sWmwL1tJ36VoYZ0cOnthMqXh1A/view?usp=sharing">
+<img align="right" width="400" height="400" src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-115/Feature.jpg">
 
 ## Welcome!
 
@@ -15,5 +15,5 @@
 
 - Thanks for visiting. 
 
-- Enjoy it!! o/
--->
+- Enjoy it!! \o/
+
