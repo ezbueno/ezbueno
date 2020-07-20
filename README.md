@@ -1,10 +1,10 @@
-<img align="right" width="400" height="400" src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-115/Feature.jpg">
+<img align="right" width="540" height="270" src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-115/Feature.jpg">
 
 ## Welcome!
 
-## I'm Ezandro Bueno!
-- 🔭 I’m currently working on IT Analyst
-- 🌱 I’m currently learning Java | HTML | CSS | JavaScript | React
+## I'm Ezandro Bueno! Let me present a little about myself :D
+- 🔭 IT Analyst focused in Technical Support
+- 🌱 I’m currently learning Java Web | HTML | CSS | JavaScript | React
 
 
 ## About me 
