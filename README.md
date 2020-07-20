@@ -5,7 +5,7 @@
 ## I'm Ezandro Bueno! Let me present a little about myself :D
 - 🔭 IT Analyst focused in Technical Support
 - 🌱 I’m currently learning Java Web | HTML | CSS | JavaScript | React
-
+- :heart: Lover of Technology and coding
 
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ezbueno)
