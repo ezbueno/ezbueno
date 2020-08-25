@@ -4,7 +4,7 @@
 
 ## I'm Ezandro Bueno! Let me present a little about myself :D
 - 🔭 IT Analyst focused in Technical Support | Java Development
-- 🌱 I’m currently learning Java Web | HTML | CSS | JavaScript | React
+- 🌱 I’m currently studying Java Web | HTML | CSS | JavaScript | React
 - :heart: Lover of Technology and coding
 
 ## About me 
