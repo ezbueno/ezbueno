@@ -4,7 +4,7 @@
 
 ## I'm Ezandro Bueno! Let me present a little about myself :D
 - 🔭 Java Developer
-- 🌱 I’m currently studying Java Web | HTML | CSS | JavaScript | React
+- 🌱 I’m currently studying React
 - :heart: Lover of Technology and coding
 
 ## About me 
