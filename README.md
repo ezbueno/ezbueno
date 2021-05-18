@@ -4,7 +4,7 @@
 
 ## I'm Ezandro Bueno! Let me present a little about myself :D
 - 🔭 Java Developer
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
 - :heart: Lover of Technology and coding
 
 ## About me 
