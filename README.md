@@ -1,19 +1,32 @@
-<img align="right" width="450" height="250" src="https://deviniciative.files.wordpress.com/2019/08/java_binary_code_gears_programming_coding_development_by_bluebay2014_gettyimages-1040871468_2400x1600-100795798-large.3x2.jpg">
-
-## Welcome!
-
 ## I'm Ezandro Bueno! Let me present a little about myself :D
 - 🔭 Java Developer
 - 🌱 I’m currently learning Angular
 - :heart: Lover of Technology and coding
 
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/ezbueno)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ezandro-bueno-776aab192/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+999141783&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+999141783&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:ezandro.bueno@gmail.com)
-
-- Thanks for visiting. 
-
-- Enjoy it!! \o/
+<div>
+  <a href="https://github.com/ezbueno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezbueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezbueno&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ezandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Ezandro-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ezandro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ezandro-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Ezandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ezandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ezandro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+</div>
+  
+##
+ 
+<div>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/ezandro-bueno-776aab192/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+999141783&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+999141783&text=Hello!)
+[![Yahoo Badge](https://img.shields.io/badge/Yahoo-330F63?style=for-the-badge&logo=yahoo&logoColor=white&link=mailto:seu_email)](mailto:ezandrobueno@yahoo.com.br)  
+ 
+  ![Snake animation](https://github.com/ezbueno/ezbueno/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
