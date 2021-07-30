@@ -32,7 +32,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+999141783&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+999141783&text=Hello!)
 [![Yahoo Badge](https://img.shields.io/badge/Yahoo-330F63?style=for-the-badge&logo=yahoo&logoColor=white&link=mailto:seu_email)](mailto:ezandrobueno@yahoo.com.br)  
  
-  ![Snake animation](https://github.com/ezbueno/ezbueno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ezbueno/ezbueno/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
