@@ -1,4 +1,4 @@
-## I'm Ezandro Bueno! Let me present a little about myself :D
+## <h1> Hi, I'm Ezandro Bueno! Let me present a little about myself. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 - 🔭 Java Developer
 - 🌱 I’m currently learning Angular
 - :heart: Lover of Technology and coding
