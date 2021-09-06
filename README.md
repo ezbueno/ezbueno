@@ -21,6 +21,7 @@
   <img align="center" alt="Ezandro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Ezandro-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Ezandro-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+   <img align="right" alt="Van-BabyYoda" height="150" width="120" src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif">
 </div>
   
 ##
