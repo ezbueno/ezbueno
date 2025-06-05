@@ -19,15 +19,9 @@ I'm currently working as an **IT Analyst**, with a growing interest in **Java ba
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Primary Focus
 <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-<img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ### 🗄️ Databases
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
@@ -36,22 +30,24 @@ I'm currently working as an **IT Analyst**, with a growing interest in **Java ba
 
 ---
 
-## 📌 Personal Projects
+### 🛠️ Personal Projects
 
-🛠 **[LibraryManager](https://github.com/ezbueno/LibraryManager)**  
-Java CLI app for managing personal libraries. Emphasizes OOP, separation of concerns, and file-based persistence.
+🚀 I focus on personal projects to deepen my understanding of **Java backend development**, with special attention to:
 
-🛠 **[RoomBookingSystem](https://github.com/ezbueno/RoomBookingSystem)**  
-A simple room reservation system written in Java, with clean logic and interactive menu navigation.
+- Spring Boot  
+- Data persistence  
+- Clean code principles  
 
-🛠 **[FunctionalProductManager](https://github.com/ezbueno/FunctionalProductManager)**  
-A small project focused on exploring Java's functional programming features like Streams and Lambdas.
+💡 My projects range from small exercises to complete applications, all designed to sharpen my skills and explore new technologies.
 
-> Feel free to explore more on my [GitHub profile](https://github.com/ezbueno)
+🔍 Feel free to explore my repositories and follow my learning journey:  
+[My GitHub Repositories](https://github.com/ezbueno?tab=repositories)
 
 ---
 
 ## 📈 GitHub Stats
+
+> These statistics reflect all my public repositories, including past projects in various languages, showing my overall coding experience and diversity.
 
 ![Ezandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezbueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezbueno&layout=compact&langs_count=7&theme=tokyonight)
