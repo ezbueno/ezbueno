@@ -39,8 +39,10 @@ I'm currently working as an **IT Analyst**, with a growing interest in **Java ba
 ### 🗄️ Databases
 <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"> <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
 
+---
+
 ### 🛠️ Technologies & Tools
-**Backend:** Java, Spring Boot, Spring Security, Spring Cloud, Spring Data JPA  
+**Backend:** Java, Spring Boot, Spring Security, JWT  
 **Authentication:** JWT, Bearer Token, OAuth2 concepts  
 **Architecture:** Microservices, REST APIs, Clean Architecture, MVC Pattern  
 **Database:** MySQL, PostgreSQL, MongoDB, H2, Flyway Migrations  
