@@ -1,44 +1,65 @@
 # 👨‍💻 Ezandro Bueno
-
-🎯 **IT Analyst | Aspiring Java Backend Developer | Technology Enthusiast**  
+🎯 **IT Analyst | Java Backend Developer | Technology Enthusiast**  
 💬 Passionate about software development and always learning new skills.
 
 ---
 
 ## 👋 About Me
-
 I'm currently working as an **IT Analyst**, with a growing interest in **Java backend development**. I'm focused on improving my skills in **Java**, **Spring Boot**, and clean architecture by building personal projects and studying software design principles.
 
 - 💼 **Current role**: IT Analyst  
-- 🌱 **Learning and practicing**: Java, Spring Boot, object-oriented programming  
-- 🛠️ **Core interests**: Backend development, clean code, system design  
+- 🌱 **Learning and practicing**: Java, Spring Boot, Microservices, JWT Authentication  
+- 🛠️ **Core interests**: Backend development, clean code, system design, REST APIs  
 - 💡 **Motivated by**: Learning by building real projects  
 - 🌍 **Based in**: Carapicuíba, São Paulo, Brazil
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Primary Focus
-<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+### 🏆 [NTT Data Microservices Challenge](https://github.com/ezbueno/nttdata-microservices-challenge)
+**Tech Stack:** Java, Spring Boot, Spring Cloud, Eureka, API Gateway, H2, Spring Security  
+📋 **Description:** Complete microservices architecture with Service Discovery, API Gateway, and inter-service communication. Features product catalog and order simulation services with JWT authentication.  
+✨ **Highlights:** Eureka Server, Spring Cloud Gateway, OpenFeign client, Bearer token authentication  
+🔗 **[View Repository](https://github.com/ezbueno/nttdata-microservices-challenge)**
 
-### 🗄️ Databases
-<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg">
-<img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+### 🏆 [ForumHub API - Alura Challenge](https://github.com/ezbueno/one-alura-forumhub-api)
+**Tech Stack:** Java, Spring Boot, Spring Security, JWT, MySQL, Flyway, Swagger/OpenAPI  
+📋 **Description:** RESTful forum API with user registration, JWT authentication, course creation, and full CRUD operations for topics. Features comprehensive documentation and database migrations.  
+✨ **Highlights:** JWT Security, Database migrations, Interactive API docs, Full test coverage  
+🔗 **[View Repository](https://github.com/ezbueno/one-alura-forumhub-api)**
 
 ---
 
-### 🛠️ Personal Projects
+## ⚙️ Tech Stack
 
+### 💻 Backend Development
+<img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+### 🗄️ Databases
+<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"> <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
+
+### 🛠️ Technologies & Tools
+**Backend:** Java, Spring Boot, Spring Security, Spring Cloud, Spring Data JPA  
+**Authentication:** JWT, Bearer Token, OAuth2 concepts  
+**Architecture:** Microservices, REST APIs, Clean Architecture, MVC Pattern  
+**Database:** MySQL, PostgreSQL, MongoDB, H2, Flyway Migrations  
+**Documentation:** Swagger/OpenAPI, Interactive API Documentation  
+**Testing:** JUnit 5, Integration Tests, Test Coverage  
+**Tools:** Maven, Git, Postman, Docker concepts
+
+---
+
+### 🛠️ Development Focus
 🚀 I focus on personal projects to deepen my understanding of **Java backend development**, with special attention to:
+- **Spring Boot & Spring Cloud** ecosystem  
+- **Microservices architecture** and inter-service communication  
+- **Security implementation** with JWT and Spring Security  
+- **Database design** and migration strategies  
+- **Clean code principles** and best practices  
+- **API documentation** and testing methodologies  
 
-- Spring Boot  
-- Data persistence  
-- Clean code principles  
-
-💡 My projects range from small exercises to complete applications, all designed to sharpen my skills and explore new technologies.
+💡 My projects range from monolithic applications to complete microservices architectures, all designed to sharpen my skills and explore modern development practices.
 
 🔍 Feel free to explore my repositories and follow my learning journey:  
 [My GitHub Repositories](https://github.com/ezbueno?tab=repositories)
@@ -46,7 +67,6 @@ I'm currently working as an **IT Analyst**, with a growing interest in **Java ba
 ---
 
 ## 📈 GitHub Stats
-
 > These statistics reflect all my public repositories, including past projects in various languages, showing my overall coding experience and diversity.
 
 ![Ezandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezbueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
@@ -55,10 +75,10 @@ I'm currently working as an **IT Analyst**, with a growing interest in **Java ba
 ---
 
 ## 🤝 Let's Connect
+📫 **Open to opportunities** in Java backend development  
+🤝 **Always interested** in collaborating on interesting projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezandro-bueno-776aab192/)  
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511999141783&text=Hello!)  
-[![Email](https://img.shields.io/badge/-Email-330F63?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ezandrobueno@yahoo.com.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezandro-bueno-776aab192/)  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511999141783&text=Hello!)  [![Email](https://img.shields.io/badge/-Email-330F63?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ezandrobueno@yahoo.com.br)
 
 ---
 
