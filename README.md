@@ -71,9 +71,9 @@ I'm currently working as an **IT Analyst**, with a growing interest in **Java ba
 ## 📈 GitHub Stats
 > These statistics reflect all my public repositories, including past projects in various languages, showing my overall coding experience and diversity.
 
-![Ezandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezbueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezbueno&layout=compact&langs_count=7&theme=tokyonight)
-
+![Ezandro's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezbueno&theme=tokyonight)  
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezbueno&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ezbueno&theme=tokyonight)
 ---
 
 ## 🤝 Let's Connect
